@@ -499,22 +499,14 @@ transforms:
     G: Ḡ
     i: ī
     I: Ī
-    l: l\u{323}\u{304}
-    L: L\u{323}\u{304}
     o: ō
     O: Ō
-    r: r\u{323}\u{304}
-    R: R\u{323}\u{304}
-    s: s\u{304}
-    S: S\u{304}
     u: ū
     U: Ū
     v: ǖ
     V: Ǖ
     'y': ȳ
     'Y': Ȳ
-    z: z\u{304}
-    Z: Z\u{304}
   ˘:
     ' ': ˘
     a: ă
@@ -585,8 +577,6 @@ transforms:
     I: Ï
     o: ö
     O: Ö
-    t: ẗ
-    T: T\u{308}
     u: ü
     U: Ü
     w: ẅ
@@ -599,16 +589,10 @@ transforms:
     ' ': ˚
     a: å
     A: Å
-    e: e\u{30A}
-    E: E\u{30A}
-    o: o\u{30A}
-    O: O\u{30A}
     u: ů
     U: Ů
     w: ẘ
-    W: W\u{30A}
     'y': ẙ
-    'Y': Y\u{30A}
   ˝:
     ' ': ˝
     o: ő
@@ -639,8 +623,6 @@ transforms:
     S: Ş
     t: ţ
     T: Ţ
-    z: z\u{327}
-    Z: Z\u{327}
   ˛:
     ' ': ˛
     a: ą
@@ -669,10 +651,6 @@ transforms:
     I: Î
     j: ĵ
     J: Ĵ
-    m: m\u{302}
-    M: M\u{302}
-    'n': n\u{302}
-    'N': N\u{302}
     o: ô
     O: Ô
     s: ŝ
@@ -702,7 +680,6 @@ transforms:
     i: ǐ
     I: Ǐ
     j: ǰ
-    J: J\u{30C}
     k: ǩ
     K: Ǩ
     l: ľ
@@ -721,8 +698,8 @@ transforms:
     U: Ǔ
     v: ǚ
     V: Ǚ
-    x: ʒ\u{30C}
-    X: Ʒ\u{30C}
+    x: ǯ
+    X: Ǯ
     z: ž
     Z: Ž
   ˍ:
@@ -732,7 +709,6 @@ transforms:
     d: ḏ
     D: Ḏ
     h: ẖ
-    H: H\u{331}
     k: ḵ
     K: Ḵ
     l: ḻ
@@ -776,7 +752,6 @@ transforms:
     j: ƞ
     J: Ƞ
     k: ĸ
-    K: K’
     m: ɯ
     M: Ɯ
     'n': ŋ
